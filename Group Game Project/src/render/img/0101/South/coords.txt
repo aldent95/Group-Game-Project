@@ -1,0 +1,1 @@
+1,281,27,Hallway door,I wonder how much I can steal..,false,item2,0,0,A wall,Headin' down south to the land of the pines,false,wall

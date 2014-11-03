@@ -1,0 +1,1 @@
+0,326,80,Staff Sign,No authorized entry!  I have to go in..,true,item1,281,27,Staff Room Door,This is where they must take their breaks,false,item2,0,0,A wall,Mark WALLberg,true,wall

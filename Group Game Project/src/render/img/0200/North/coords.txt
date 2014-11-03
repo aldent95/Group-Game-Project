@@ -1,0 +1,1 @@
+0,668,363,Waste Basket,Another man's trash is another man's...trash,true,item1,652,394,A key,I wonder what this unlocks...,true,key,0,0,East2,215,88,The mirror,Cheap programmer didn't bother,false,item3,74,129,Newspaper,We've landed on the moon!,true,item4,210,268,Sinks,Could wash my hands,false,item5,0,0,A wall,I'm facing north,false,wall

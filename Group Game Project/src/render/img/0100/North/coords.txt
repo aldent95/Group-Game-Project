@@ -1,0 +1,1 @@
+0,18,195,Guard,He's sleeping off the junk food,false,item1,306,51,Starry Starry Night,I've seen better,true,item2,288,402,Junk food,Wonder where he's been...,false,item3,0,0,A wall,This wall is to the North,false,wall

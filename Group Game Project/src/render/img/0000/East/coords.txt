@@ -1,0 +1,1 @@
+0,300,27,The Door,I'll need a key to open this...,false,item1,60,57,Bike Poster,I really should ride my bike more,false,item2,582,72,Work Poster,A sarcastic poster! How delightful!,false,key,0,0,East3,0,0,A wall,This wall is to the East,true,wall

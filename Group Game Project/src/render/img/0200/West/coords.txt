@@ -1,0 +1,1 @@
+0,300,37,The door,This leads back to the hallway!,false,item1,602,153,Air Drier,So noisey!,false,item2,0,0,A wall,I'm obviously fascinated by walls,false,wall

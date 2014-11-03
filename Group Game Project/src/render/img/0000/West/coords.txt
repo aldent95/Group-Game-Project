@@ -1,0 +1,1 @@
+0,438,201,Picture,She's cute!,false,item1,664,214,Papers,Someone has a lot of work to do..,false,item2,421,249,A desk,Office life isn't for me!,false,item3,130,200,A chair,I've seen better,false,item4,0,0,A wall,This wall is to the West,true,wall

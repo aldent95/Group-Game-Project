@@ -1,0 +1,1 @@
+0,520,72,Office sign,Brilliant!,true,item1,281,27,A door,This goes into an office,false,item2,0,0,A wall,This wall is to the West,false,wall

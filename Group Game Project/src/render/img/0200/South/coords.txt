@@ -1,0 +1,1 @@
+0,627,60,A newspaper,Pity I can't read,false,item1,110,90,A sign,Blah blah blah,false,item2,252,24,A window,Looks like someone climbed in here,false,item3,0,0,Urinals,I used to be able to use these..until the accident..,false,wall

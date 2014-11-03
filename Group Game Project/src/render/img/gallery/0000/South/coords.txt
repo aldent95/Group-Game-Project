@@ -1,0 +1,1 @@
+0,269,289,The Door,I'll need a key to open this...,false,item1,36,48,The Door,I'll need a key to open this...,false,item2,0,0,The Door,I'll need a key to open this...,false,wall

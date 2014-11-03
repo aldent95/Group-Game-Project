@@ -1,0 +1,1 @@
+0,0,0,Nothing,I can see something in the distance..,false,wall

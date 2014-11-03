@@ -1,0 +1,1 @@
+0,118,414,Glass shards,Seem useless,true,item1,153,45,Broken Window,I hope no one heard me,false,item2,0,0,A wall,What a view!,false,wall

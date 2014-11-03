@@ -1,0 +1,1 @@
+0,612,90,Poster,calm...CALM...CALM!?!!?,false,item1,300,27,The door,It leads out to the hallway,false,item2,0,0,A wall,I am headed east!s,false,wall

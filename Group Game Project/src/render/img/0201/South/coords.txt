@@ -1,0 +1,1 @@
+0,762,412,Key,I wonder what it opens..,true,key,0,0,East1,213,36,Window,Whoa! What a view!  What an easy way to access this building..,false,items2,63,285,Painting,Those pepperidge farmers,true,item3,225,279,Painting,Girl with the Pearl Earring,true,item4,586,346,Files!,Holey moley!,true,item5,0,0,A wall,Southward bound,false,wall

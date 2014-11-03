@@ -1,0 +1,1 @@
+0,345,189,Key Card,I wonder what this goes to..,true,key,0,0,East1,262,189,Filing Cabinet,Someone really outta to use this thing..,false,item2,60,38,Poster,I feel inspired,false,item3,573,273,Boxes!,BOXESSSS!!,false,item4,0,0,A wall,What a view!,false,wall

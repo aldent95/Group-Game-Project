@@ -1,0 +1,1 @@
+0,668,394,Toilet Paper,Someone's gonna have bad day,true,item1,42,60,Bathroom stalls,What's the smell?,false,item2,0,0,A wall,I must be facing east,false,wall

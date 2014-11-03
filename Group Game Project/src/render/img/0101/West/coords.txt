@@ -1,0 +1,1 @@
+0,75,78,File Room Sign,What a cool name for a room!,true,item1,281,27,A door,This goes into the file rooms,false,item2,0,0,A wall,This wall is to the West,false,wall

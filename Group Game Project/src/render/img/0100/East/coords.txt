@@ -1,0 +1,1 @@
+0,520,72,Bathroom Sign,This is my favorite painting by far,true,item1,281,27,Bathroom Door,I don't really have to go now,false,item2,0,0,A wall,This wall is to the East,false,wall
